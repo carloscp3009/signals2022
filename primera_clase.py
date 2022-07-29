@@ -1,6 +1,6 @@
 print("Hello Python World")
-print("Hola mundo")
-# print("Hola mundo")
-print("Hola mundo")
 
-# Este es un comentario
+def mi_primera_funcion():
+    print("esta es mi primera funcion")
+
+mi_primera_funcion()
